@@ -1,6 +1,0 @@
-Credentials cache: API:A76CE994-F1D8-4C8D-A28E-4B2DC8B35D54
-        Principal: jthiele@42ADEL.ORG.AU
-
-  Issued                Expires               Principal
-Nov 23 08:24:24 2021  Nov 23 18:24:24 2021  krbtgt/42ADEL.ORG.AU@42ADEL.ORG.AU
-Nov 23 08:24:26 2021  Nov 23 18:24:24 2021  HTTP/student-storage.42adel.org.au@42ADEL.ORG.AU
