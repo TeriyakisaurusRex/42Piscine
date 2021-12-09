@@ -1,0 +1,32 @@
+/* ************************************************************************** */
+/*                                                                            */
+/*                                                        :::      ::::::::   */
+/*   ft_strlcat.c                                       :+:      :+:    :+:   */
+/*                                                    +:+ +:+         +:+     */
+/*   By: jthiele <marvin@42.fr>                     +#+  +:+       +#+        */
+/*                                                +#+#+#+#+#+   +#+           */
+/*   Created: 2021/12/06 15:09:52 by jthiele           #+#    #+#             */
+/*   Updated: 2021/12/07 14:23:29 by jthiele          ###   ########.fr       */
+/*                                                                            */
+/* ************************************************************************** */
+
+unsigned int	ft_strlcat(char *dest, char *src, unsigned int size)
+{
+	unsigned int	i;
+	unsigned int	j;
+
+	i = 0;
+	j = 0;
+	while (dest[i])
+	{
+		i++;
+	}
+	while (src[j] && nb)
+	{
+		dest[i + j] = src[j];
+		j++;
+		nb--;
+	}
+	dest[i + j] = '\0';
+	return (i + j);
+}
