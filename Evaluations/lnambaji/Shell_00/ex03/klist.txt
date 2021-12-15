@@ -1,0 +1,5 @@
+Credentials cache: API:C3DBBDD0-4874-49E1-AA44-344AD38C2B17
+        Principal: lnambaji@42ADEL.ORG.AU
+
+  Issued                Expires               Principal
+Nov 22 17:02:38 2021  Nov 23 03:02:05 2021  krbtgt/42ADEL.ORG.AU@42ADEL.ORG.AU
